@@ -6,7 +6,7 @@ logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ""
 google_analytics:
-disqus: ' jp-coba-bantu'
+disqus: 'jp-coba-bantu'
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
@@ -16,7 +16,7 @@ authors:
   jp:
     name: Jan Peter Alexander
     display_name: JP
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: 8d59752a466ead4958c19c3d8763e192
     web: https://jpmrblood.blogspot.com
     twitter: https://twitter.com/jpmrblood
     description: "Former Programmer with Attitudes -- Quora, 2018."
